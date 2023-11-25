@@ -44,6 +44,18 @@
     </random>
   </template>
 </category>
+<category>
+  <pattern>carro deportivo</pattern>
+  <template>
+    <random>
+      <li>¡Un carro deportivo! ¡Genial elección! ¿Qué te parece un elegante Ferrari o un potente LamborghiniPower?</li>
+      <li>Los carros deportivos te ofrecen velocidad y estilo. Imagina estar al volante de un MercedesSpeedster o un emocionante FerrariThrill.</li>
+      <li>La potencia y la elegancia se unen en los carros deportivos. ¿Prefieres un clásico Lamborghini o un moderno Mercedes?</li>
+      <li>Conquista la pista con un impresionante FerrariBlaze o vive la emoción de la velocidad en un Lamborghini.</li>
+      <li>Desde la línea de salida hasta la meta, los carros deportivos son incomparables. Piensa en un deslumbrante Mercedes o un robusto FerrariForce.</li>
+    </random>
+  </template>
+</category>
 
 </aiml>
 
