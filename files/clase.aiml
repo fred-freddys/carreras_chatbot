@@ -24,6 +24,14 @@
         </random>
     </template>
   </category>
+ <category>
+    <pattern>Que opciones de autos hay</pattern>
+    <template>
+        <random>
+          <li>En nuestro garaje virtual encontrarás autos clásicos, deportivos y de Fórmula 1. ¿Cuál de estos emocionantes tipos de autos prefieres?</li>
+        </random>
+    </template>
+  </category>
 
 </aiml>
 
