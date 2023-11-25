@@ -56,7 +56,18 @@
     </random>
   </template>
 </category>
-
+<category>
+  <pattern>Formula1</pattern>
+  <template>
+    <random>
+      <li>¡Optaste por la élite de las carreras! Imagina pilotar un veloz Formula1Car1 o un aerodinámico Formula1 mercedes.</li>
+      <li>Los autos de Fórmula 1 ofrecen velocidad pura. ¿Qué te parece el rendimiento de un Formula1 redbull o la precisión de un Formula1 porsche?</li>
+      <li>Prepárate para la velocidad extrema en un impresionante Formula1 o siente la potencia de un auténtico Formula1 mercedes.</li>
+      <li>Los autos de Fórmula 1 representan la cima del rendimiento. ¿Te gustaría conducir un legendario Formula1Car7 o un innovador Formula1 redbull?</li>
+      <li>Desde las curvas ajustadas hasta las rectas a alta velocidad, los autos de Fórmula 1 son incomparables. Piensa en un fascinante Formula1 mercedes o un espectacular Formula1Car10.</li>
+    </random>
+  </template>
+</category>
 </aiml>
 
 
