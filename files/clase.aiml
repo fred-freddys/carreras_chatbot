@@ -32,6 +32,18 @@
         </random>
     </template>
   </category>
+<category>
+  <pattern>auto clasico</pattern>
+  <template>
+    <random>
+      <li>¿Un auto clásico? ¡Excelente elección! Tal vez un elegante FordClassic o un icónico ChevroletVintage.</li>
+      <li>Los autos clásicos tienen un encanto único. Imagínate al volante de un ClassicMustang de Ford o un BelAir de Chevrolet.</li>
+      <li>Sumérgete en la nostalgia con un impresionante ModelT de Ford o un impecable ImpalaClassic de Chevrolet.</li>
+      <li>Los verdaderos conocedores eligen autos clásicos. ¿Qué te parece un Thunderbird de Ford o un distinguido CorvetteClassic de Chevrolet?</li>
+      <li>Los autos clásicos tienen historias fascinantes. Piensa en conducir un FairlaneVintage de Ford o un legendario ClassicCamaro de Chevrolet.</li>
+    </random>
+  </template>
+</category>
 
 </aiml>
 
